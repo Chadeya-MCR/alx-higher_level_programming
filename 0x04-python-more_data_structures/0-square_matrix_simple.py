@@ -3,6 +3,7 @@
 def square_matrix_simple(matrix=[]):
     return [[x**2 for x in row] for row in matrix]
 
+
 if __name__ == "__main__":
     matrix = [
         [1, 2, 3],
@@ -13,4 +14,3 @@ if __name__ == "__main__":
     new_matrix = square_matrix_simple(matrix)
     print(new_matrix)
     print(matrix)
-
