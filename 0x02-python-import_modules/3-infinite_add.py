@@ -1,16 +1,10 @@
 #!/usr/bin/python3
-from sys import argv
+import sys
 
-# Extract command-line arguments (excluding the script name)
-arguments = argv[1:]
-
-# Initialize the sum to 0
-sum_result = 0
-
-# Add up all the arguments
-for arg in arguments:
-    sum_result += int(arg)
-
-# Print the result
-print(sum_result)
-
+if __name__ == "__main__":
+    """Print the addition of all arguments."""
+    
+    total = 0
+    for i in range(len(sys.argv) - 1):
+        total += int(sys.argv[i + 1])
+    print("{}".format(total))
