@@ -1,6 +1,3 @@
-First constant, first print
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a script that prints “JavaScript is amazing”:
 
 You must create a constant variable called myVar with the value “JavaScript is amazing”
@@ -19,7 +16,7 @@ File: 0-javascript_is_amazing.js
    
 1. 3 languages
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
+Score: 10.83% (Checks completed: 16.67%)
 Write a script that prints 3 lines:
 
 The first line: “C is fun”
@@ -37,7 +34,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 1-multi_languages.js
-   
+    
 2. Arguments
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -62,7 +59,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 2-arguments.js
-   
+    
 3. Value of my argument
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -82,7 +79,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 3-value_argument.js
-   
+    
 4. Create a sentence
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -102,7 +99,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 4-concat.js
-   
+    
 5. An Integer
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -128,7 +125,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 5-to_integer.js
-   
+    
 6. Loop to languages
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -152,7 +149,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 6-multi_languages_loop.js
-   
+    
 7. I love C
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -182,7 +179,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 7-multi_c.js
-   
+    
 8. Square
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -215,7 +212,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 8-square.js
-   
+    
 9. Add
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -240,7 +237,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 9-add.js
-   
+    
 10. Factorial
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -266,7 +263,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 10-factorial.js
-   
+    
 11. Second biggest!
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -289,7 +286,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 11-second_biggest.js
-   
+    
 12. Object
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -317,7 +314,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 12-object.js
-   
+    
 13. Add file
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
@@ -340,7 +337,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 13-add.js
-   
+    
 14. Const or not const
 #advanced
 Score: 0.0% (Checks completed: 0.0%)
@@ -367,7 +364,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 100-let_me_const.js
-   
+    
 15. Call me Moby
 #advanced
 Score: 0.0% (Checks completed: 0.0%)
@@ -392,7 +389,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 101-call_me_moby.js
-   
+    
 16. Add me maybe
 #advanced
 Score: 0.0% (Checks completed: 0.0%)
@@ -415,7 +412,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x12-javascript-warm_up
 File: 102-add_me_maybe.js
-   
+    
 17. Increment object
 #advanced
 Score: 0.0% (Checks completed: 0.0%)
