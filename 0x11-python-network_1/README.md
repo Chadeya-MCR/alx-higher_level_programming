@@ -1,5 +1,5 @@
 0. What's my status? #0
-mandatory
+
 Score: 0.0% (Checks completed: 0.0%)
 Write a Python script that fetches https://alx-intranet.hbtn.io/status
 
